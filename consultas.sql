@@ -1,2 +1,2 @@
 -- Consultas SQL
-SELECT * FROM empleados WHERE id=?
+SELECT * FROM animales WHERE id=?
